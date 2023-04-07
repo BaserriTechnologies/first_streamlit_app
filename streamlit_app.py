@@ -1,3 +1,3 @@
 
-import treamlit
-streamli.title('Hello Snowflake!')
+import streamlit
+streamlit.title('Hello Snowflake!')
